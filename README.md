@@ -58,4 +58,4 @@ python main.py
 
 ## Autores
 
-- [Seu Nome] - [Seu RM] 
+- [Seu Nome] - [Seu RM]
