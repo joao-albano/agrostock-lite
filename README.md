@@ -58,4 +58,8 @@ python main.py
 
 ## Autores
 
-- [Seu Nome] - [Seu RM]
+- Gabriel - rm564934
+- Gabriella Serni Ponzetta - rm566296
+- joão Pedro Abreu:RM563261
+- Fernando Ricardo - rm566501
+- João Francisco Maciel Albano - rm565985
